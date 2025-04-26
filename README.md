@@ -26,5 +26,7 @@ This repository contains my solutions to Python practice questions for my progra
 I confirm that:
 - All code in this repository is written by me.
 - I did not copy code from AI tools or other students.
+- I had some assistance from my friends in understanding how to write the codes.
 - I understand the logic behind every implementation.
 - I have tested each script thoroughly.
+  
