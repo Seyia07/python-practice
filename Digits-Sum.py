@@ -1,8 +1,6 @@
 def sum_of_digits(number):
-    """Calculates the sum of digits in a given number."""
-    total = 0  # Start at zero
-    number = abs(number)  # Convert to positive (in case user enters a negative number)
-    
+    total = 0  
+    number = abs(number)  
     while number > 0:  # Loop until no digits are left
         total += number % 10  # Get last digit and add to total
         number //= 10  # Remove last digit
