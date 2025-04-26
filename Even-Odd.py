@@ -10,5 +10,4 @@ def check_even_odd():
             break
         except ValueError:
             print("Invalid input! Please enter a valid number.")
-
 check_even_odd()
