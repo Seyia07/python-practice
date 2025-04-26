@@ -9,12 +9,12 @@
 This repository contains my solutions to Python practice questions for my programming fundamentals course.
 
 ## Task List
-1. Sum all elements in a list (`task1_sum_list.py`)
-2. Check if a number is even or odd (`task2_even_odd.py`)
-3. Compute factorial using a loop (`task3_factorial_loop.py`)
-4. Reverse a string without using built-in methods (`task4_string_reverse.py`)
-5. Factorial using recursion (`task5_factorial_recursive.py`)
-6. Sum of digits of a number (`task6_sum_digits.py`)
+1. Sum all elements in a list (`Elements-sum-list.py`)
+2. Check if a number is even or odd (`Even-Odd.py`)
+3. Compute factorial using a loop (`Factorial-Loop.py`)
+4. Reverse a string without using built-in methods (`String-Reverse.py`)
+5. Factorial using recursion (`Factorial-Recursive.py`)
+6. Sum of digits of a number (`Digits-Sum.py`)
 
 ## Implementation Approach
 - Each task is solved using Python functions.
