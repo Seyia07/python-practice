@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Seyianoi Sankok
 - **Admission Number:** 190384
-- **Date:** 25th April 2025
+- **Date:** 26th April 2025
 
 ## Project Description
 This repository contains my solutions to Python practice questions for my programming fundamentals course.
