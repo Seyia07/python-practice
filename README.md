@@ -21,7 +21,7 @@ This repository contains my solutions to Python practice questions for my progra
 - Comments are added in the code to explain my thought process.
 - Code is written without AI assistance.
 - Regular commits track my progress.
-
+  
 ## Self-Declaration
 I confirm that:
 - All code in this repository is written by me.
