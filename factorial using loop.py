@@ -1,5 +1,4 @@
 
-
 def loop_factorial(num):
     i = num
     while i > 1:
