@@ -3,6 +3,7 @@ def factorial_iterative(n):
     for i in range(1, n + 1):
         result *= i  #
     return result
+    
 while True:
     try:
         num = int(input("Enter a number: "))
