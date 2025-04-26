@@ -18,8 +18,7 @@ This repository contains my solutions to Python practice questions for my progra
 
 ## Implementation Approach
 - Each task is solved using Python functions.
-- Comments are added in the code to explain my thought process.
-- Code is written without AI assistance.
+- Some comments are added in the code to explain my thought process.
 - Regular commits track my progress.
   
 ## Self-Declaration
