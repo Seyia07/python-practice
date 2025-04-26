@@ -19,7 +19,6 @@ This repository contains my solutions to Python practice questions for my progra
 ## Implementation Approach
 - Each task is solved using Python functions.
 - Some comments are added in the code to explain my thought process.
-- Regular commits track my progress.
   
 ## Self-Declaration
 I confirm that:
